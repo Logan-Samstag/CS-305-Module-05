@@ -7,7 +7,5 @@ For this project, the main goal is to build a web application that helps user fi
 2. Make the application presentable
 3. Make the application widely applicable
 
-Additionally, for this project, the license that will be used is the Academic Free License 3.0 (afl-3.0).
-
 
  
