@@ -8,4 +8,6 @@ For this project, the main goal is to build a web application that helps user fi
 3. Make the application widely applicable
 
 
- 
+## Contributions
+ * Zachary Hallemeyer
+   * I will work on making the application easy to use 
